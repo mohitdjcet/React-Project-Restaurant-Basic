@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.search-div{
+  background-color: aliceblue;
+    padding: 3px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.span-class{
+  display: inline-block;
+    background-color: azure;
+    padding: 10px;
+    margin: 5px;
+}
+
+.list-wrap{
+  border: 1px solid;
+    margin: 27px;
+    width: 500px;
+    margin-top: 10px;
+}
